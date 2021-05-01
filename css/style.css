@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration:none ;
+}
+body
+{
+    font-family: "Roboto", sans-serif;
+}
+section
+{
+   
+    background: url(../image/—Pngtree—abstract\ white\ lines\ on\ blue_662069.jpg) ;
+    background-size:cover ;
+    height: 100vh;
+ 
+}
+
+.hello
+{
+  top: 50%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  transform: translateY(-50%);
+  font-size: 48px;
+  width: 100%;
+  color: rgb(85, 6, 6);
+  text-align: center;
+}
